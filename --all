@@ -1,0 +1,5 @@
+# This is Git's per-user configuration
+[user]
+# Please adapt and uncomment the following lines:
+	name = tiagopariz
+	email = tiagopariz@gmail.com
